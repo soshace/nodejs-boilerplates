@@ -18,5 +18,5 @@ Node.js boilerplate based on [Express](https://expressjs.com/)
 ```sh
 cd express-test
 npm i
-npm dev
+npm run dev
 ```
